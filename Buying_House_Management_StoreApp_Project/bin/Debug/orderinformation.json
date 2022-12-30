@@ -1,0 +1,92 @@
+{
+  "orderInformation": [
+    {
+      "orderId": 1,
+      "buyerId": 2,
+      "productName": "Full Shirt",
+      "productAvailable": false,
+      "orderDate": "2022-08-16T00:00:00",
+      "quantity": 1000,
+      "Unitprice": 100,
+      "TotalPrice": 100000,
+      "notAvailable": true
+    },
+    {
+      "orderId": 9,
+      "buyerId": 7,
+      "productName": "Half-Shirt",
+      "productAvailable": false,
+      "orderDate": "2022-08-14T00:00:00",
+      "quantity": 234,
+      "Unitprice": 33,
+      "TotalPrice": 7722,
+      "notAvailable": true
+    },
+    {
+      "orderId": 2,
+      "buyerId": 1,
+      "productName": "Denim Pant",
+      "productAvailable": true,
+      "orderDate": "2022-08-21T00:00:00",
+      "quantity": 2000,
+      "Unitprice": 100,
+      "TotalPrice": 200000,
+      "notAvailable": false
+    },
+    {
+      "orderId": 100,
+      "buyerId": 1,
+      "productName": "Full Shirt",
+      "productAvailable": true,
+      "orderDate": "2022-08-16T00:00:00",
+      "quantity": 123,
+      "Unitprice": 50,
+      "TotalPrice": 6150,
+      "notAvailable": false
+    },
+    {
+      "orderId": 20,
+      "buyerId": 3,
+      "productName": "Denim Pant",
+      "productAvailable": true,
+      "orderDate": "2022-08-26T00:00:00",
+      "quantity": 12,
+      "Unitprice": 34,
+      "TotalPrice": 408,
+      "notAvailable": false
+    },
+    {
+      "orderId": 3,
+      "buyerId": 2,
+      "productName": "Full Shirt",
+      "productAvailable": false,
+      "orderDate": "2022-08-18T00:00:00",
+      "quantity": 3457,
+      "Unitprice": 450,
+      "TotalPrice": 1555650,
+      "notAvailable": true
+    },
+    {
+      "orderId": 4,
+      "buyerId": 3,
+      "productName": "T-Shirt",
+      "productAvailable": true,
+      "orderDate": "2022-08-12T00:00:00",
+      "quantity": 344,
+      "Unitprice": 1200,
+      "TotalPrice": 412800,
+      "notAvailable": false
+    },
+    {
+      "orderId": 101,
+      "buyerId": 51,
+      "productName": "Full Shirt",
+      "productAvailable": true,
+      "orderDate": "2023-01-01T00:00:00",
+      "quantity": 100,
+      "Unitprice": 1000,
+      "TotalPrice": 100000,
+      "notAvailable": false
+    }
+  ]
+}
